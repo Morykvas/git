@@ -1,0 +1,48 @@
+.item_button_back {
+    display: flex;
+    margin-top: 35px;
+    & a { 
+        color: red;
+        font-size: 25px;
+    }
+}
+.wrapper-products {
+    .wrapper-title {
+        display: flex;
+        justify-content: center;
+        & h1 {
+            color: black;
+        }
+    }
+    & .my_products {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 50px 0 ;
+        & .products_card {
+            margin-right: 30px;
+            &:nth-child(4n) {
+                margin-right: 0;
+            } 
+            & a {
+                max-width: 300px;
+                width: 100%;
+                margin-bottom: 15px;
+                box-sizing: border-box;
+                padding: 10px 10px;
+                border-radius:7px;
+                border: 2px solid rgba(128, 128, 128, 0.502);
+                background-color: rgb(28, 187, 198);
+                border: rgb(28, 187, 198);
+                color: white;
+                cursor: pointer;
+                &:hover {
+                    background-color:  rgb(17, 163, 173);
+                }
+                &:active {
+                    background-color: rgb(28, 187, 198);
+                }
+            }
+        }
+    }
+}
+   

@@ -1,0 +1,32 @@
+.button-back {
+    display: flex;
+    margin-top: 45px;
+    font-size: 20px;
+    & a {
+        color: red;
+    }
+}
+.wraper-user-message-page {
+    display: flex;
+    justify-content: center;
+    & .form_for_message_user {
+        textarea { 
+            width: 277px;
+            height: 150px;
+            padding: 10px;
+            resize: none;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 14px;
+            margin-bottom: 15px;
+            border-radius: 12px;
+            &:focus {
+                border: 2px solid  rgb(28, 187, 198);
+                outline: none;
+            }
+            &:focus-visible {
+                border: 3px solid rgb(28, 187, 198);
+            }
+        }
+    }
+}

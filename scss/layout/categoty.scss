@@ -1,0 +1,45 @@
+.sidebar_categories_select {
+    & .title-sort {
+        color:black;
+        font-size: 20px;
+    }
+    & .select_sort {
+        max-width: 300px;
+        width: 100%;
+        margin-bottom: 15px;
+        box-sizing: border-box;
+        padding: 10px 10px;
+        border-radius: 7px;
+        border: 2px solid rgba(128, 128, 128, 0.502);
+        &:focus {
+            border: 2px solid  rgb(28, 187, 198);
+            outline: none;
+        }
+        &:focus-visible {
+            border: 3px solid rgb(28, 187, 198);
+        }
+    }
+    & .wrapper-arrow {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 15px;
+    }
+}
+
+.arrow-radio {
+    display: flex;
+    align-items: center;
+}
+.arrow-radio input {
+    display: none;
+}
+.arrow-radio label {
+    font-size: 20px;
+    cursor: pointer;
+    user-select: none;
+    color: #000;
+}
+.arrow-radio input:checked + label,
+.arrow-radio input:active + label {
+    color: #FF0000; 
+}

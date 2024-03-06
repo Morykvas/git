@@ -1,0 +1,55 @@
+.wrapper-button-exit {
+    display: flex;
+    margin-top: 35px;
+    & a {
+        color: red;
+        font-size: 25px;
+    }
+}
+.item-links {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px 0;
+    & .wrapper-links {
+        width: 600px;
+        display: flex;
+        justify-content: space-between;
+    }
+    & h2 {
+        color: black;
+        margin-bottom: 40px;
+    }
+    
+}
+.item-user {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    & .item_users_messagas-recipient {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        padding: 30px;
+        box-shadow: 0px 3px 40px -5px rgba(0, 0, 0, 0.4);
+        border-radius: 10px;
+        width: 840px;
+        margin: 20px 0 50px 0;
+        background-color: rgba(161, 207, 227, 0.372);
+        & p {
+            color: black;
+        }
+        & pre {
+            color: rgb(17, 163, 173);
+        }
+    }
+    & .buttons {
+        width: 800px;
+        & a {
+            color: rgb(17, 163, 173);
+            font-size: 25px;
+        }
+    }
+}

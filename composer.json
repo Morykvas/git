@@ -1,0 +1,6 @@
+{
+    "require": {
+        "liqpay/liqpay": "^1.2",
+        "stripe/stripe-php": "^7.0"
+    }
+}

@@ -1,0 +1,5 @@
+файл: C:\MAMP\htdocs\project-shop\data_processor\design-products.php Рядок: 95  Повідомлення: Немає ідентифікатора платіжного методу.
+файл: C:\MAMP\htdocs\project-shop\vendor\stripe\stripe-php\lib\Exception\ApiErrorException.php Рядок: 38  Повідомлення: You may only specify one of these parameters: automatic_payment_methods, confirmation_method.
+файл: C:\MAMP\htdocs\project-shop\vendor\stripe\stripe-php\lib\Exception\ApiErrorException.php Рядок: 38  Повідомлення: You may only specify one of these parameters: automatic_payment_methods, confirmation_method.
+файл: C:\MAMP\htdocs\project-shop\vendor\stripe\stripe-php\lib\Exception\ApiErrorException.php Рядок: 38  Повідомлення: Received unknown parameter: pyment_method. Did you mean payment_method?
+файл: C:\MAMP\htdocs\project-shop\vendor\stripe\stripe-php\lib\Exception\ApiErrorException.php Рядок: 38  Повідомлення: You may only specify one of these parameters: automatic_payment_methods, confirmation_method.

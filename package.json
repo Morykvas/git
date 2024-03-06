@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@stripe/stripe-js": "^2.1.11"
+  },
+  "name": "project-shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "compile-scss": "sass --watch scss/style.scss:style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

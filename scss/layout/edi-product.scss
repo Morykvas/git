@@ -1,0 +1,34 @@
+.wrapper-title-edit {
+    display: flex;
+    margin-top: 35px;
+    & a {
+        color: red;
+        font-size: 25px;
+    }
+}
+.update-products  {
+    display: flex;
+    justify-content: center;
+    & h2 {
+        color: black;
+    }
+    & textarea {
+    width: 277px;
+    height: 100px;
+    padding: 10px;
+    resize: none;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-bottom: 15px;
+    border-radius: 12px;
+    border: 2px solid rgba(128, 128, 128, 0.502);
+    &:focus {
+        border: 2px solid  rgb(28, 187, 198);
+        outline: none;
+    }
+    &:focus-visible {
+        border: 3px solid rgb(28, 187, 198);
+    }
+    }
+}

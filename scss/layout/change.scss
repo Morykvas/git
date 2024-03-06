@@ -1,0 +1,12 @@
+.wrapper-change-pass {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    & a { 
+        display: flex;
+        justify-content: flex-start;
+         color:rgb(28, 187, 198);
+         margin-bottom: 15px;
+    }
+}

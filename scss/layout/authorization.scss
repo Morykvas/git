@@ -1,0 +1,14 @@
+.wrapper-autorization-form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    & .item-buttons {
+        display: flex;
+        justify-content: space-between;
+        & a {
+            color:  rgb(17, 163, 173);
+        }
+        
+    }
+}

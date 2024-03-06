@@ -1,0 +1,40 @@
+.home-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100%;
+    & .wrapper-schosse-buttons {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        box-shadow: 0px 3px 40px -5px rgba(0, 0, 0, 0.4);
+        border-radius: 15px;
+        box-sizing: border-box;
+        padding: 40px;
+        & .item-schosse-buttons {
+            display: flex;
+            flex-direction: column;
+            & a {
+                color: white;
+                margin-bottom: 15px;
+                background-color: rgb(28, 187, 198) ;
+                padding: 16px 124px;
+                box-sizing: border-box;
+                border-radius: 12px;
+                &:hover {
+                  background-color: rgb(17, 163, 173);
+                }
+            }
+        }
+        & .item-message-access {
+            & .item-message {
+                display: flex;
+                width: 337px;
+                border-radius: 15px;
+                background-color: rgba(255, 0, 0, 0.639);
+                box-sizing: border-box;
+                padding: 20px 20px;
+            }
+        }
+    }
+}

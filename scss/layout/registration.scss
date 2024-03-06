@@ -1,0 +1,13 @@
+.wrapper-form-registration {
+    display: flex;
+    justify-content: center;
+}
+.item-back-title {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 25px;
+    & .button-back {
+        color: red;
+        font-size: 20px;
+    }
+} 

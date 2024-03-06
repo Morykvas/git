@@ -1,0 +1,68 @@
+.wrapp-tytle-link {
+    display: flex;
+    margin-top:45px;
+    & a {
+        color: red;
+        font-size: 20px;
+    }
+}
+.wrapper-product-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    & .set_form_product {
+       & textarea { 
+            width: 277px;
+            height: 100px;
+            padding: 10px;
+            resize: none;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 14px;
+            margin-bottom: 15px;
+            border-radius: 12px;
+            border: 2px solid rgba(128, 128, 128, 0.502);
+            &:focus {
+                border: 2px solid  rgb(28, 187, 198);
+                outline: none;
+            }
+            &:focus-visible {
+                border: 3px solid rgb(28, 187, 198);
+            }
+        }
+        & select {
+            max-width: 300px;
+            width: 100%;
+            margin-bottom: 15px;
+            box-sizing: border-box;
+            padding: 10px 10px;
+            border-radius:7px;
+            border: 2px solid rgba(128, 128, 128, 0.502);
+            &:focus {
+                border: 2px solid  rgb(28, 187, 198);
+                outline: none;
+            }
+            &:focus-visible {
+                border: 3px solid rgb(28, 187, 198);
+            }
+        }
+        & label {
+            color:black;
+            margin-bottom: 5px;
+        }
+        & .item-radio {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            & input[type="radio"] {
+                width:20px;
+                height: 15px;
+                margin-bottom:0 ;
+            }
+            & span {
+                text-align: center;
+                color: black;
+            }
+        } 
+    }
+}

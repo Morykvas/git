@@ -1,0 +1,10 @@
+.wrapper-header {
+    display: flex;
+    justify-content: center;
+    color: black;
+    box-shadow: 0px 3px 40px -5px rgba(0, 0, 0, 0.4);
+    background-color: rgba(161, 207, 227, 0.372);
+    & h1 {
+        color:  rgb(17, 163, 173);
+    }
+}
