@@ -19,5 +19,11 @@
         <div class="wrapper-header">
             <h1>HEADER</h1>
         </div>
+        <ul class="navigation-menu">
+            <li><a href="">до</a></li>
+            <li><a href="">юрчика</a></li>
+            <li><a href="">в</a></li>
+            <li><a href="">обійми</a></li>
+        </ul>
 </header>
 <main class="main">

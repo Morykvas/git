@@ -15,7 +15,7 @@
                 <a href="../customer/index.php">повернутись</a>
                 <a href="basket-page.php">кошик</a>
         </div>
-        <h1 class="all-prod-tittle">Сторінка продуктів</h1>
+        <h1 class="all-prod-tittle">Сторінка продуктів та срапонів</h1>
         <div class="wrapper-all-products">
             <?php 
                 $sql = "SELECT * FROM products WHERE is_order = 1 ORDER BY product_id DESC";
