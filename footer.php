@@ -4,6 +4,7 @@
                 <div class="container">
                     <div class="wrapper-footer">
                         <h1>FOOTER</h1>
+                        <h2>Дмитрик скоро піде в гугл</h2>
                     </div>
                 </div>
                 <script src="<?= SCRIPT_DIR; ?>min.js"></script>
