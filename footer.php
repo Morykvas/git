@@ -4,7 +4,7 @@
                 <div class="container">
                     <div class="wrapper-footer">
                         <h1>FOOTER</h1>
-                        <h2>Дмитрик скоро піде в гугл</h2>
+                        <h2>Дмитрик скоро піде в Apple</h2>
                         <p>я ще добре подумаю чи туда треба йти, бо там ще Юрчика не має </p>
                     </div>
                 </div>
