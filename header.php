@@ -17,13 +17,17 @@
 
 <header class="header">
         <div class="wrapper-header">
-            <h1>HEADER</h1>
+        <div class="wrapper-logo"> 
+            <img src="" alt="Додаємо логотип нашого сайту 'Великий пісюн негра' ">
         </div>
+        <h1>HEADER</h1>
         <ul class="navigation-menu">
             <li><a href="">до</a></li>
             <li><a href="">юрчика</a></li>
             <li><a href="">в</a></li>
             <li><a href="">обійми</a></li>
         </ul>
+        </div>
+       
 </header>
 <main class="main">
