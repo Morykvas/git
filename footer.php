@@ -11,6 +11,7 @@
                             <ul>
                                 <li><span>Тлелефон : </span><a>+380941541902</a></li>
                                 <li><span>Емейл : </span><a>malyi@gmail.com</a></li>
+                                <li><span>instagram : </span><a>malii1395</a></li>
                             </ul>
                         </div>
                     </div>
