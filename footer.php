@@ -14,6 +14,7 @@
                                 <li><span>Інстаграм : </span><a href="">malyi1395</a></li>
                                 <li><span>Телеграм : </span><a href="">malyi</a></li>
                                 <li><span>Вайбер  : </span><a href="">malyi</a></li>
+                                <li><span>ват сап  : </span><a href="">malyi</a></li>
                             </ul>
                         </div>
                     </div>
