@@ -11,6 +11,7 @@
                             <ul>
                                 <li><span>Телефон : </span><a href="">+380931541902</a></li>
                                 <li><span>Емейл   : </span><a href="">dmytro@gmail.com</a></li>
+                                <li><span>вот сап: </span><a href="">malyi</a></li>
                             </ul>
                         </div>
                     </div>
