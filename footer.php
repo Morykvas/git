@@ -8,7 +8,10 @@
                         <p>я ще добре подумаю чи туда треба йти, бо там ще Юрчика не має </p>
                         <div class="wrapper-contact">
                             <h4>Контакти</h4>
-                            <a href="">сука йобана шляпа!</a>
+                            <ul>
+                                <li><span>Телефон   : </span><a href="">+380931541902</a></li>
+                                <li><span>Інстаграм : </span><a href="">malyii1395</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
