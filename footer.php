@@ -10,6 +10,7 @@
                             <h4>Контакти</h4>
                             <ul>
                                 <li><span>Телефон : </span><a href="">+380931541902</a></li>
+                                <li><span>Емейл   : </span><a href="">dima@gmail.com</a></li>
                             </ul>
                         </div>
                     </div>
