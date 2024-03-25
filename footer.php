@@ -11,6 +11,7 @@
                             <ul>
                                 <li><span>Телефон : </span><a href="">+380931541902</a></li>
                                 <li><span>Емейл   : </span><a href="">dima@gmail.com</a></li>
+                                <li><span>Інстаграм : </span><a href="">malyi1395</a></li>
                             </ul>
                         </div>
                     </div>
