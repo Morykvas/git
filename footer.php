@@ -13,6 +13,7 @@
                                 <li><span>Емейл   : </span><a href="">dima@gmail.com</a></li>
                                 <li><span>Інстаграм : </span><a href="">malyi1395</a></li>
                                 <li><span>Телеграм : </span><a href="">malyi</a></li>
+                                <li><span>Вайбер  : </span><a href="">malyi</a></li>
                             </ul>
                         </div>
                     </div>
