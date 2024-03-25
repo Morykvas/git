@@ -9,8 +9,7 @@
                         <div class="wrapper-contact">
                             <h4>Контакти</h4>
                             <ul>
-                                <li><span>Телефон   : </span><a href="">+380931541902</a></li>
-                                <li><span>Інстаграм : </span><a href="">malyii1395</a></li>
+                                <li><span>Телефон : </span><a href="">+380931541902</a></li>
                             </ul>
                         </div>
                     </div>
