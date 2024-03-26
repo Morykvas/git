@@ -13,6 +13,8 @@
                                 <li>телеграм<a href="">телеграм</a></li>
                                 <li>вайбер<a href="">вайбер</a></li>
                                 <li>instagram<a href="">malui</a></li>
+                                <li>Телефон<a href="">+308094324433</a></li>
+                                <li>фейсбук<a href="">dmytro</a></li>
                             </ul>
                         </div>
                     </div>
