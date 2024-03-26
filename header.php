@@ -28,6 +28,5 @@
             <li><a href="">обійми</a></li>
         </ul>
         </div>
-       
 </header>
 <main class="main">
