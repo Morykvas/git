@@ -12,6 +12,7 @@
                                 <li><a href="">залупа</a></li>
                                 <li>телеграм<a href="">телеграм</a></li>
                                 <li>вайбер<a href="">вайбер</a></li>
+                                <li>instagram<a href="">malui</a></li>
                             </ul>
                         </div>
                     </div>
