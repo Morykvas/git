@@ -20,6 +20,7 @@
                                 <li>слак<a href="">malyi dima</a></li>
                                 <li>клік ап<a href="">malyi dima</a></li>
                                 <li>лінке дін<a href="">malyi dima</a></li>
+                                <li>месенджер<a href="">dmytro</a></li>
                             </ul>
                         </div>
                     </div>
