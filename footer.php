@@ -16,6 +16,8 @@
                                 <li>Телефон<a href="">+308094324433</a></li>
                                 <li>фейсбук<a href="">dmytro</a></li>
                                 <li>Емейл<a href="">dima@gmail.com</a></li>
+                                <li>ват сап<a href="">malyi</a></li>
+                                <li>слак<a href="">malyi dima</a></li>
                             </ul>
                         </div>
                     </div>
