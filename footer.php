@@ -15,6 +15,7 @@
                                 <li>instagram<a href="">malui</a></li>
                                 <li>Телефон<a href="">+308094324433</a></li>
                                 <li>фейсбук<a href="">dmytro</a></li>
+                                <li>Емейл<a href="">dima@gmail.com</a></li>
                             </ul>
                         </div>
                     </div>
