@@ -9,7 +9,8 @@
                         <div class="wrapper-contact">
                             <h4>Контакти</h4>
                             <ul>
-                              
+                                <li><a href="">залупа</a></li>
+                                <li>телеграм<a href="">телеграм</a></li>
                             </ul>
                         </div>
                     </div>
