@@ -18,6 +18,8 @@
                                 <li>Емейл<a href="">dima@gmail.com</a></li>
                                 <li>ват сап<a href="">malyi</a></li>
                                 <li>слак<a href="">malyi dima</a></li>
+                                <li>клік ап<a href="">malyi dima</a></li>
+                                <li>лінке дін<a href="">malyi dima</a></li>
                             </ul>
                         </div>
                     </div>
