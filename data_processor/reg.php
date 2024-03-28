@@ -9,7 +9,7 @@ if(!isset($_SESSION)) { echo 'сесія непрацює'; }
 // require_once '../connect.php';
 require_once '../connectdb.php';
 
-
+$userRole = '1';
 
 $first_name =  $_POST['first_name']; 
 $last_name = $_POST['last_name'];
