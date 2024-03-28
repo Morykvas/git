@@ -21,6 +21,7 @@ $password = $_POST['password'];
 $passwordTwo = $_POST['password_two'];
 $submit = $_POST['submit'];
 
+$anotherValue = true;
 
 $first_name = stripslashes($first_name); #прибирає бек слеші з симоволів
 $first_name = htmlspecialchars($first_name); #перетворює спеціальні сутності HTML назад на символи
